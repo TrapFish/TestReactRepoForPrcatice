@@ -1,4 +1,5 @@
 import "./styles.css";
+import FormHandling from "./component/FormHandling";
 
 export default function App() {
   return (
