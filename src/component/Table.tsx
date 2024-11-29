@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Table({ tableData }) {
-  console.log("Line 4 ::: ", tableData);
   return (
     <div>
       {tableData && (
